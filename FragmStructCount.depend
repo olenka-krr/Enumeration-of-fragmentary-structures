@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1499945999 source:e:\science\frstructcount\fragmstructcount\main.cpp
+	"org_.h"
+
+1499946160 e:\science\frstructcount\fragmstructcount\org_.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstdio>
+	<cmath>
+	<bitset>
+
+1511988666 source:e:\science\paper_frstructcount\fragmstructcount_equal\main.cpp
+	"org_.h"
+
+1511992744 e:\science\paper_frstructcount\fragmstructcount_equal\org_.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstdio>
+	<cmath>
+	<bitset>
+
